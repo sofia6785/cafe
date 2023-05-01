@@ -1,0 +1,64 @@
+.background {
+  background-color: rgb(233, 233, 227);
+  width: 1440px;
+  height: 1277px;
+  margin: auto;
+  padding-left: 60px;
+  padding-right: 60px;
+  padding-top: 125px;
+}
+
+b {
+  font-size: 18px;
+  font-family: "Azeret Mono", monospace;
+  color: rgb(111, 111, 100);
+}
+
+.about {
+  width: 545px;
+  margin-bottom: 78px;
+}
+
+h2 {
+  font-size: 32px;
+  font-family: "Inter", sans-serif;
+  font-style: normal;
+  color: rgb(111, 111, 100);
+  padding-top: 0px;
+}
+.button {
+  font-family: sans-serif;
+  box-sizing: border-box;
+  border: 2px solid rgb(111, 111, 100);
+  width: 531px;
+  height: 58px;
+  margin-top: 12px;
+  cursor: pointer;
+  text-align: center;
+  padding-top: 18px;
+  color: rgb(111, 111, 100);
+}
+
+.active {
+  background-color: rgb(111, 111, 100);
+  color: white;
+}
+.picture {
+  border: 1px solid black;
+  width: 664px;
+  height: 1037px;
+  position: absolute;
+  left: 50%;
+}
+
+.pict1 {
+  background-image: url(./2.jpg);
+}
+
+.pict2 {
+  background-image: url(./3.jpg);
+}
+
+.pict3 {
+  background-image: url(./0.jpg);
+}
